@@ -45,4 +45,11 @@ Passionate about building real-world projects and continuously learning new tech
   <img src="https://streak-stats.demolab.com?user=venkata-narendra-guvvala&theme=github-dark&hide_border=true"/>
 </p>
 
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=venkata-narendra-guvvala&theme=darkhub&no-frame=true&row=1&column=6"/>
+</p>
+
 ⭐ Thanks for visiting my profile!
