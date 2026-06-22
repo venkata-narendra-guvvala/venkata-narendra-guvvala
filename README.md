@@ -30,6 +30,12 @@ Passionate about building real-world projects and continuously learning new tech
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=venkata-narendra-guvvala&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkata-narendra-guvvala&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
 ---
 
