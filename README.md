@@ -39,4 +39,10 @@ Passionate about building real-world projects and continuously learning new tech
 
 ---
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=venkata-narendra-guvvala&theme=github-dark&hide_border=true"/>
+</p>
+
 ⭐ Thanks for visiting my profile!
