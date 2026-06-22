@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Venkata Narendra Guvvala</h1>
+<h1 align="center">Hi 👋, I'm Venkata Narendra Guvval a<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Venkata+Narendra+Guvvala;Python+%7C+DevOps+%7C+AI+%26+ML;Building+Real-World+Projects;Always+Learning+Something+New" />
+</p></h1>
 
 <h3 align="center">
 B.Tech CSE (AI & ML) Student | Python | DevOps | AI & Machine Learning
