@@ -46,10 +46,4 @@ Passionate about building real-world projects and continuously learning new tech
 </p>
 
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=venkata-narendra-guvvala&theme=darkhub&no-frame=true&row=1&column=6"/>
-</p>
-
 ⭐ Thanks for visiting my profile!
