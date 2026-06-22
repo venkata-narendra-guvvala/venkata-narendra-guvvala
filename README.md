@@ -53,9 +53,6 @@ Passionate about building real-world projects and continuously learning new tech
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkata-narendra-guvvala&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=venkata-narendra-guvvala&theme=github-dark&hide_border=true"/>
-</p>
 ---
 
 ##   GitHub Streak
