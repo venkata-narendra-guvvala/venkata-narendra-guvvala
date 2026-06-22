@@ -46,4 +46,11 @@ Passionate about building real-world projects and continuously learning new tech
 </p>
 
 
+## 📫 Connect With Me
+
+- 💼 LinkedIn (Coming Soon)
+- 🌐 Portfolio (Coming Soon)
+- 📧 Email (Coming Soon)
+
+
 ⭐ Thanks for visiting my profile!
